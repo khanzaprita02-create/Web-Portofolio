@@ -1,0 +1,19 @@
+{
+  "name": "cv-portofolio-smk-rpl",
+  "version": "1.0.0",
+  "description": "Digital CV & Portofolio Siswi SMK Rekayasa Perangkat Lunak (RPL) - Junior Frontend Developer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "cv-digital",
+    "smk-rpl",
+    "frontend-developer",
+    "junior-web-developer"
+  ],
+  "author": "Khanza Prita Asyafica",
+  "license": "MIT"
+}
